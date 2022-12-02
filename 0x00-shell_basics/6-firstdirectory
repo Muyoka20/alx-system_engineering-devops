@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod ug+x,o+r
+mkdir /tmp/my_first_directory
